@@ -112,4 +112,21 @@ Write the following methods in the classes in the files provided. Feel free to b
   - hint: will need a way to remember all Customer objects
   - Uncomment lines 137-147 in the customer_test file
  
- 
+# System Requirements
+-A Browser that can run JavaScript (Chrome, Firefox, etc) -Node 20+ -operating system (Windows 10+, Linux, etc) -RAM > 4GB -Disk space > 1GB
+
+## Installation
+To use this repo, follow the following steps:
+
+### Alternative one
+open your terminal on your computer clone the repo by running the following command: git clone 
+
+[Instructions to configure any settings or environment variables if necessary]
+
+Execute the application:
+
+bash Copy code
+
+AUTHOR The project contributed to and maintained by:
+Terry Otieno
+
