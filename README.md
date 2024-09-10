@@ -119,7 +119,7 @@ Write the following methods in the classes in the files provided. Feel free to b
 To use this repo, follow the following steps:
 
 ### Alternative one
-open your terminal on your computer clone the repo by running the following command: git clone 
+open your terminal on your computer clone the repo by running the following command: git clone git@github.com:Terry1703/coffeeshop.git
 
 [Instructions to configure any settings or environment variables if necessary]
 
